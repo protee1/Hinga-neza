@@ -9,6 +9,7 @@ private int maxTemperature;
 private double minLength;
 private double maxLength;
 private int germinatePeriodLength;
+public Igihingwa(){}
  public Igihingwa(String izina, String ubwokoBwigihingwa, String inganoYigihingwa, String 
 ibaraRyigihingwa, int minTemperature, int maxTemperature, double minLength, double maxLength, 
 int germinatePeriodLength) {

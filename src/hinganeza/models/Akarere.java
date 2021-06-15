@@ -11,6 +11,7 @@ private int minTemperature;
 private double maxRainfall;
 private double minRainFall;
 private String avarageClimate;
+public Akarere(){}
 private String latitude;public Akarere(String izina,int maxTemperature,int minTemperature,double maxRainfall,double 
 minRainFall,String avarageClimate,String latitude){
 this.izina=izina;

@@ -9,7 +9,7 @@ public class Umurima {
  private Igihingwa igihingwa;
  private String ubwokoBwumurima;
  
- 
+ public Umurima(){}
  public Umurima(String izina,Akarere Akarere, int ubuso,String ubwokoBwumurima, boolean 
 urahinze,boolean urateye,Igihingwa igihingwa){ this.izina=izina;
  this.Akarere=Akarere;
